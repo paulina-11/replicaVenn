@@ -13,7 +13,7 @@ body {
 }
 
 header .hero-container {
-    background-image: url(/img/Grupo-9213@2x.png);
+    background-image: url(../img/Grupo-9213@2x.png);
     height: 120vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -211,7 +211,7 @@ header h1 {
 /* seccion 4 */
 
 .hero-final {
-    background-image: url(/img/Enmascarar\ grupo\ 259@3x.webp);
+    background-image: url(../img/Enmascarar\ grupo\ 259@3x.webp);
     height: 186vh;
     background-position: center;
     background-repeat: no-repeat;
